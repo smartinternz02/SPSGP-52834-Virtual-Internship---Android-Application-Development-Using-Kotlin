@@ -15,7 +15,9 @@ Pattern Model-View-ViewModel(MVVM) which facilitates a separation of development
 * Room persistence
 * Lottie 
 
-## Screenshots
-![Screenshot](https://raw.githubusercontent.com/mshivam019/Grocery-List/master/grocery.jpg?raw=true "Sceenshot")
+#Screen-Recording
 
-![Screenshot](https://raw.githubusercontent.com/mshivam019/Grocery-List/master/grocery1.jpg?raw=true "Sceenshot")
+<img src="https://github.com/smartinternz02/SPSGP-52834-Virtual-Internship---Android-Application-Development-Using-Kotlin/blob/master/ScreenRecord.gif" width="300">
+
+## Screenshots
+<img src="https://raw.githubusercontent.com/smartinternz02/SPSGP-52834-Virtual-Internship---Android-Application-Development-Using-Kotlin/master/grocery.jpg" width="200"> <img src="https://raw.githubusercontent.com/smartinternz02/SPSGP-52834-Virtual-Internship---Android-Application-Development-Using-Kotlin/master/grocery1.jpg" width="200">
